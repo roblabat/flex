@@ -1,0 +1,21 @@
+{
+  "name": "@roblabat/flex",
+  "version": "1.0.0",
+  "description": "directives for usage of flexbox from html",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "roblabat",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/core": "^4.4.4",
+    "rxjs": "^5.4.3",
+    "typescript": "^2.5.3",
+    "zone.js": "^0.8.18"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
